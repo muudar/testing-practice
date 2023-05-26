@@ -7,7 +7,7 @@ Practicing testing with **jest** as part of [The Odin Project CS Course](theodin
 
 **reverseString(str)** : Reverses string.
 
-**calculator** Object, which has four functions:
+ **calculator** Object, which has four functions:
 
   **add(a,b)** => Returns a + b
 
