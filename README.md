@@ -9,13 +9,13 @@ Practicing testing with **jest** as part of [The Odin Project CS Course](theodin
 
 **calculator** Object, which has four functions:
 
- **add(a,b)** => Returns a + b
+  **add(a,b)** => Returns a + b
 
- **subtract(a,b)** => Returns a - b
+  **subtract(a,b)** => Returns a - b
 
- **multiply(a,b)** => Returns a * b
+  **multiply(a,b)** => Returns a * b
 
-  **divide(a,b)** => Returns a / b
+   **divide(a,b)** => Returns a / b
    
   **analyzeArray(arr)** returns an object with 4 values:
   
