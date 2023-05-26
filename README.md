@@ -9,13 +9,13 @@ Practicing testing with **jest** as part of [The Odin Project CS Course](theodin
 
    **Calculator** object, which has 4 functions:
   
-    min => Minimum number in array
-    
-    max => Max number in array
-    
-    average => Average value of array
-    
-    length => Length of array
+     **add(a,b)** => Returns a + b
+
+    **subtract(a,b)** => Returns a - b
+
+    **multiply(a,b)** => Returns a * b
+
+    **divide(a,b)** => Returns a / b
    
   **analyzeArray(arr)** returns an object with 4 values:
   
